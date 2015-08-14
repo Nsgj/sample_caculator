@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="comfortable">#FFFFCC</color>
+    <color name="gray">#CCCC99</color>
+    <color name="orange">#FFFF33</color>
+    <color name="solid">#CC9933</color>
+    <color name="white">#CCCC</color>
+
+</resources>
